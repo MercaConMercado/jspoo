@@ -2,9 +2,9 @@
  * DEFINIT ATRIBUTOS UI
  */
 
-let usuario = prompt('usuario')
-export let clave1 = prompt('clave1')
-export let clave2 = prompt('clave2')
+let usuario = prompt('Escribe tu usuario')
+export let clave1 = prompt('Escribe tu clave')
+export let clave2 = prompt('Confirma tu tu clave')
 
 /**
  * SETEAR clase de (datos) con contrusctor de los datos apartir de UI

@@ -14,15 +14,15 @@ export class metodos {
     validarClave() {
         if (clave1 == clave2) {
 
-            alert("claves correctas")
-            let respuesta = "claves correctas"
+            alert("las Claves coinciden Correctamente")
+            let respuesta = "las Claves coinciden Correctamente"
             return respuesta
 
        
     } else {
 
-            alert("colocaste la clave indicada mal")
-            let respuesta = "colocaste la clave indicada mal"
+            alert("las Claves NO coinciden")
+            let respuesta = "las Claves NO coinciden"
             metodos.prototype.validarClave;
             return respuesta
             
